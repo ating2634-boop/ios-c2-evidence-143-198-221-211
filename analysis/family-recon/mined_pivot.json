@@ -1,0 +1,11 @@
+{
+ "43.164.134[.]13": [
+  {
+   "port": 8081,
+   "kind": "DISTRIB",
+   "code": 200,
+   "server": "nginx/1.18.0 (Ubuntu)",
+   "evidence": "{\n    \"REQUEST_URI\": \"/\",\n    \"PATH\": \"\",\n    \"uploadId\": \"\",\n    \"dest\": \"/var/www/lab/public/log/app_c2/uploads/20261103_tag.bin\",\n    \"dest_real\": \"/var/www/lab/public/log/app_c2/uploads/20261103_t"
+  }
+ ]
+}

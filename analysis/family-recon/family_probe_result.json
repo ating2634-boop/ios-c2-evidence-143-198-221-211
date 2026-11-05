@@ -1,0 +1,62 @@
+{
+ "112.213.108[.]171": {
+  "8081": {
+   "scheme": "http",
+   "code": 426,
+   "server": "",
+   "powered": "",
+   "title": "",
+   "len": 16,
+   "snippet": "Upgrade Required"
+  },
+  "80": {
+   "scheme": "http",
+   "code": 200,
+   "server": "nginx",
+   "powered": "",
+   "title": "C2 管理控制台 v2.4",
+   "len": 5990,
+   "snippet": "<!DOCTYPE html><html lang=zh-CN>\n<head>\n<meta charset=UTF-8>\n<meta name=viewport content=\"width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no>\n<title>C2 管理控制台 v2.4</title>\n<style>\n"
+  },
+  "443": {
+   "scheme": "http",
+   "code": 400,
+   "server": "nginx",
+   "powered": "",
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "len": 248,
+   "snippet": "<html>\r\n<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>\r\n<body>\r\n<center><h1>400 Bad Request</h1></center>\r\n<center>The plain HTTP request was sent to HTTPS port</center>"
+  }
+ },
+ "2rdfine.xiaobao.online": {
+  "443": {
+   "scheme": "http",
+   "code": 400,
+   "server": "nginx",
+   "powered": "",
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "len": 248,
+   "snippet": "<html>\r\n<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>\r\n<body>\r\n<center><h1>400 Bad Request</h1></center>\r\n<center>The plain HTTP request was sent to HTTPS port</center>"
+  },
+  "80": {
+   "scheme": "http",
+   "code": 200,
+   "server": "nginx",
+   "powered": "",
+   "title": "Loading",
+   "len": 1918,
+   "snippet": "<!DOCTYPE html>\n<html lang=\"zh\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<title>Loading</title>\n</head>\n<body>\n<script>\n(function () {\n  'use "
+  }
+ },
+ "160.20.58[.]27": {
+  "443": {
+   "scheme": "http",
+   "code": 400,
+   "server": "nginx",
+   "powered": "",
+   "title": "400 The plain HTTP request was sent to HTTPS port",
+   "len": 248,
+   "snippet": "<html>\r\n<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>\r\n<body>\r\n<center><h1>400 Bad Request</h1></center>\r\n<center>The plain HTTP request was sent to HTTPS port</center>"
+  }
+ }
+}
